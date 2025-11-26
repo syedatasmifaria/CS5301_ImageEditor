@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <iostream>
-
+using namespace std;
 Image::Image() {
     width = 0;
     height = 0;
