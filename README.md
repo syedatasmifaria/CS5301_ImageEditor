@@ -1,7 +1,7 @@
 # CS5301 Image Editor — C++ Final Project  
 **Author:** Syeda Tasmi Faria  
 **Course:** CS5301 Programming Practicum  
-**Instructor:** Dr. Aniruddha Bora  
+
 
 ---
 
