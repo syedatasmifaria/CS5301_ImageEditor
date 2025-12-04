@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.obj
+
+# Ignore build folders
+/build/
+bin/
+out/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore CSV outputs created during testing
+data/brightened.csv
+data/darkened.csv
+data/flood.csv
+data/inverted.csv
+data/newtest.csv
+data/output.csv
+data/threshold50.csv
+data/undoredotest.csv
